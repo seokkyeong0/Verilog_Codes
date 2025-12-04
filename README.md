@@ -1,4 +1,4 @@
-# Verilog Modules
+# Verilog Codes
 - Useful Modules
 
 ## Module List
