@@ -12,4 +12,4 @@
 - [x] APB
 - [x] AXI-Lite
 - [x] SCCB Master (OV7670)
-- [x] BMP File Tester
+- [x] BMP Tester
