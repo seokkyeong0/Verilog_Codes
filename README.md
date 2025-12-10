@@ -7,7 +7,7 @@
 - [x] Linear Feedback Shift Register
 - [x] Synchronous FIFO
 - [x] UART
-- [ ] SPI
+- [x] SPI
 - [ ] I2C
 - [x] APB
 - [x] AXI-Lite
