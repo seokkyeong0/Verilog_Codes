@@ -10,8 +10,9 @@
 - [x] SPI
 - [ ] I2C
 - [x] APB
+- [ ] AHB-Lite
 - [x] AXI-Lite
 - [x] SCCB Master (OV7670)
 - [x] BMP Tester
 - [x] Down Scaler
-- [x] UART UVM Verification
+- [x] UART UVM Testbench
